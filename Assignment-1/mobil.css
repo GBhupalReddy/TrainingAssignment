@@ -1,0 +1,47 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    display: none;
+}
+.p{
+    margin: 25px 0px 18px 10px;
+}
+hr{
+    display: none;
+    margin: 0px 10px 5px;
+}
+input, select{
+    display: block;
+    margin:10px 10px 10px 10px;
+    width: 95%;
+    height: 20px;
+    padding: 4px;
+
+}
+select{
+    width: 96.3%;
+    height: 30px;
+
+}
+input, select, textarea{
+    border: 1px solid #ccc;
+}
+.pa, .notes p{
+ margin-left: 15px;
+}
+textarea
+{
+    margin: 15px 15px;
+    width: 95%;
+}
+button{
+    background-color: #368DCC;
+    padding: 8px 15px;
+    color: white;
+    border: 1px solid #368DCC;
+    margin-left: 16px;
+}
+/* input, sel */

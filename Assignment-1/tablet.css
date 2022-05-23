@@ -1,0 +1,98 @@
+*
+{
+    margin: 0px 3px;
+    padding: 0;
+}
+h1
+{
+    margin: 30px 5px;
+}
+ .p
+{
+     margin: 15px 4px; 
+}
+hr
+{
+    margin: 0px 5px 5px 5px;
+} 
+.fname, .lname, .mail, .phone, .city, .state, .zip, select, .products input{
+    display: inline;
+}
+.fname, .lname, .mail, .phone{
+    width: 46.5%;
+}
+.city, .state, .zip{
+    width: 46.1%;
+}
+select{
+ width: 47%;
+}
+.fname, .mail
+{
+
+  margin: 10px 3px 5px 12px;
+}
+.lname, .phone
+{
+    margin-left: 3px;
+}
+.contact, .address, .products 
+{
+    margin-bottom: 50px;
+}
+.stline1, .stline2
+{
+    display: block;
+    width: 95%;
+    margin: 10px 10px 5px 12px;
+}
+.city, .zip{
+    margin: 10px 6px 0px 12px;
+}
+.item
+{
+  width: 67%;
+  margin: 10px 1px 5px 12px;
+}
+.itemquan
+{
+    width: 26%;
+    margin-left:5px; 
+}
+.notes p
+{
+  margin-left: 12px;
+}
+textarea
+{
+    margin: 15px 12px;
+    width: 96%;
+    height: 150px;
+
+}
+
+input, select
+{
+    height: 30px;
+    padding-left: 5px;
+    /* margin-top: 5px; */
+}
+button{
+   
+    margin-left: 12px;
+    margin-top: 20px;
+    background-color: #368DCC;
+    padding: 8px 15px;
+    color: white;
+    border: 1px solid #368DCC;
+}
+/* input, select, textarea
+{
+    border: 1px solid;
+} */
+.address .pa{
+    margin-left: 50.5%;
+}
+input, select, textarea{
+    border: 1px solid #ccc;
+}

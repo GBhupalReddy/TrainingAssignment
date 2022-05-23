@@ -1,0 +1,118 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin: 10px 15px 1px;
+}
+.p{
+    margin-bottom: 10px;
+}
+.contact, .address
+{
+    display: inline;
+    float: left;
+}
+.contact{
+    width: 30%;
+    margin: 30px 5px 10px 20px;
+}
+.contact input
+{
+    display: block;
+    width: 94%;
+    margin: 20px 5px;
+    
+}
+.address
+{
+    width: 65%;
+    margin: 30px 10px 5% 5px;
+}
+.stline1, .stline2
+{
+    display: block;
+}
+.stline1, .stline2
+{
+    width: 96.2%;
+    margin:20px 5px;
+}
+.stline2
+{
+    display: none;
+}
+.city, .state{
+    display: inline;
+}
+.city, .state, .zip
+{
+    width: 46.6%;
+}
+select
+{width: 48.4%;
+}
+input, select
+{
+   padding: 7px;
+   
+}
+.city {
+    margin: 0px 5px 20px;
+}
+.zip{
+    margin: 0px 5px;
+}
+.address .pa{
+    margin-top: 5px;
+    margin-left: 50.5%;
+}   
+.products, .notes
+{
+    display: inline;
+   
+}
+.products{
+    float: left;
+    width: 46%;
+    margin: 0% 1% 2% 1%;
+}
+ .item, .quan
+{
+    display: inline;
+} 
+ .item
+{
+    width: 66%;
+    margin: 1% 0% 1% 1%;
+}
+.itemquan
+{
+    width: 26%;
+}
+.notes hr
+{
+    margin-right: 2.8%;
+}
+.notes p{
+    margin: 0.5% 0% 0.5% 48.5%;
+}
+textarea{
+    width: 47.7%;
+    height: 150px;
+    margin-left: 0.5%;
+} 
+button{
+    background-color: #368DCC;
+    padding: 8px 15px;
+    color: white;
+    border: 1px solid #368DCC;
+    margin-left: 1.67%;
+    margin-top: 3%;
+    
+}
+
+input, select, textarea{
+    border: 1px solid #ccc;
+}
